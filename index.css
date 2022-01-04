@@ -71,6 +71,12 @@ img, #footer {
 	padding-top: 30px;
 	padding-left: 300px;
 }
+#cv {
+	padding-top: 30px;
+	padding-left: 300px;
+	width: 640px;
+	height: auto;
+}
 .essay-text {
 	border-color: grey;
 	border-style: dashed;

@@ -1,0 +1,86 @@
+<!doctype .css>
+h1 { 
+font-family: times new roman;
+font-size: 18px;
+}
+h1:hover {
+	color: magenta;
+}
+h2 {
+	font-family: times new roman;
+	font-size: 18px;
+	padding-top: 50px;
+	font-weight: normal;
+}
+h3 {
+	font-size: 15px;
+	font-weight: normal;
+}
+a:hover {
+	color: magenta;
+	font-style: italic;
+}
+
+marquee {
+	font-family: times new roman;
+	font-style: italic;
+	color: magenta;
+	font-size: -6;
+}
+a {
+	font-family: times new roman;
+	color: black;
+}
+/*p {
+	padding-right: 200px;
+}*/
+iframe {
+	height: 400px;
+	width: 100%;
+	border-color: grey;
+	border-style: dashed;
+	border-width: thin;
+}
+.link {
+	padding-left: 55px;
+}
+#menu {
+	position: fixed;
+	background-color: lightyellow;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 30px;
+	border-color: grey;
+	border-style: dashed;
+	border-width: thin;
+}
+#footer {
+	background-color: white;
+	text-align: left;
+	line-height: 2px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+img, #footer {
+	padding-left: 250px;
+}
+* {
+	letter-spacing: -0.5px;
+}
+#articles, #essays {
+	padding-top: 30px;
+	padding-left: 300px;
+}
+.essay-text {
+	border-color: grey;
+	border-style: dashed;
+	border-width: thin;
+	margin:5px, 5px;
+	padding:5px;
+	width: 500px;
+	height: 200px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-size: 15px;
+	text-indent: 10%;
+}

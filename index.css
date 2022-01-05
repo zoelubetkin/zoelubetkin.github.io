@@ -33,14 +33,14 @@ a {
 }
 /*p {
 	padding-right: 200px;
-}*/
+}
 iframe {
 	height: 400px;
 	width: 100%;
 	border-color: grey;
 	border-style: dashed;
 	border-width: thin;
-}
+}*/
 .link {
 	padding-left: 55px;
 }
@@ -67,7 +67,7 @@ img, #footer {
 * {
 	letter-spacing: -0.5px;
 }
-#articles, #essays, #contact {
+#articles, #essays, #contact, #cv-text {
 	padding-top: 30px;
 	padding-left: 300px;
 }

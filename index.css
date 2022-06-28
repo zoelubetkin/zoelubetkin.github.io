@@ -51,6 +51,7 @@ iframe {
 	padding-top: 10px;
 	padding-right: 30px;
 	border-color: black;
+	border-weight: thin;
 }
 #content {
    	position: fixed;

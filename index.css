@@ -51,7 +51,7 @@ iframe {
 	padding-top: 10px;
 	padding-right: 30px;
 	border-color: black;
-	border-weight: thin;
+	border-style: solid;
 }
 #content {
    	position: fixed;
@@ -65,6 +65,7 @@ iframe {
     margin: 0 24px 27px 0;
     background: white;
     border-color: black; 
+    border-style: solid;
 }
 #moodboard_container {
     float: right;

@@ -90,7 +90,7 @@ img, #footer {
 	font-size: 15px;
 	text-indent: 10%;
 }
-.div2, div1 {
+.container {
 	padding-top: 30px;
 	padding-left: 300px;
 	display: inline-block;

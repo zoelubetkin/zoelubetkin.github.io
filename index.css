@@ -46,14 +46,13 @@ iframe {
 }
 #menu {
 	position: fixed;
-	background-color: white;
+	background-color: lightyellow;
 	padding-left: 30px;
 	padding-top: 10px;
 	padding-right: 30px;
-	border-color: black;
-	border-style: solid;
+	border-color: grey;
+	border-style: dashed;
 	border-width: thin;
-	border-radius: 4px;
 }
 #content {
    	position: fixed;

@@ -55,7 +55,6 @@ iframe {
 	border-width: thin;
 }
 #contentBlock {
-    position: fixed;
     width: 100%;
     overflow: auto;
     min-height: 500px;

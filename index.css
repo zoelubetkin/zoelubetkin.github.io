@@ -41,6 +41,19 @@ iframe {
 	border-style: dashed;
 	border-width: thin;
 }*/
+backgroundBlock {
+    display: flex;
+    margin: 20px auto;
+    z-index: 100;
+    width: 90%;
+    border: 1px solid #757474;
+    border-radius: 4px;
+    justify-content: center;
+    background: gainsboro;
+    border-block-color: black;
+    color: #000000;
+    padding: 10px 10px 10px 10px;
+}
 .link {
 	padding-left: 55px;
 }

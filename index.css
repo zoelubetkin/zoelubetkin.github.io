@@ -50,14 +50,11 @@ iframe {
 	padding-left: 30px;
 	padding-top: 10px;
 	padding-right: 30px;
-	border-color: grey;
-	border-style: dashed;
-	border-width: thin;
+	border-color: white;
 }
 #content {
    	position: fixed;
 	width: 800px;
-	border-color: black;
 	padding: 10px;
   	margin: 0 250px;
 }

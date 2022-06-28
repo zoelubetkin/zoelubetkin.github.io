@@ -66,6 +66,7 @@ iframe {
     min-height: 850px;
     margin: 0 24px 27px 0;
     background: white;
+    border-color: black; 
 }
 #moodboard_container {
     float: right;

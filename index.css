@@ -8,12 +8,12 @@ h1:hover {
 }
 h2 {
 	font-family: times new roman;
-	font-size: 18px;
+	font-size: 15px;
 	padding-top: 50px;
 	font-weight: normal;
 }
 h3 {
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: normal;
 }
 a:hover {
@@ -54,7 +54,7 @@ iframe {
 	border-style: dashed;
 	border-width: thin;
 }
-#content {
+#contentBlock {
     width: 100%;
     overflow: auto;
     min-height: 500px;
@@ -78,6 +78,14 @@ iframe {
     width: 27%;
     min-height: 200px;
     margin: auto;
+}
+#main_column {
+    float: none;
+    position: center;
+    text-align: center;
+    padding: 0 5px 0 5px;
+    margin: auto;
+    justify-content: center;
 }
 #footer {
 	background-color: white;

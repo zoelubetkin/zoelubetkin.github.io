@@ -56,12 +56,10 @@ iframe {
 }
 #content {
    	position: fixed;
-	padding-left: 30px;
-	padding-top: 10px;
-	padding-right: 30px;
-	border-color: black solid;
+	width: 800px;
+	border-color: black;
 	padding: 10px;
-  	margin: 0 210px;
+  	margin: 0 250px;
 }
 .moodboard {
     width: 80%;

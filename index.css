@@ -73,6 +73,7 @@ iframe {
     width: 27%;
     min-height: 200px;
     margin: auto;
+    border-color: black; 
 }
 #main_column {
     float: none;

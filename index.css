@@ -55,7 +55,8 @@ iframe {
 	border-width: thin;
 }
 #contentBlock {
-    width: 100%;
+    color: pink;
+    width: 80%;
     overflow: auto;
     min-height: 500px;
     background: #fff;

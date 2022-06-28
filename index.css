@@ -54,17 +54,14 @@ iframe {
 	border-style: dashed;
 	border-width: thin;
 }
-#contentBlock {
-    width: 100%;
-    overflow: auto;
-    min-height: 500px;
-    background: #fff;
-    border: 1px solid black;
-    border-radius: 4px;
-    float: none;
-    text-align: justify;
-    margin: auto;
-    padding: 20px 20px 250px 20px;
+#content {
+   	position: fixed;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 30px;
+	border-color: black solid;
+	padding: 10px;
+  	margin: 0 210px;
 }
 .moodboard {
     width: 80%;

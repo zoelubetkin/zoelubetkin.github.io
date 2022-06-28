@@ -82,7 +82,7 @@ iframe {
 #main_column {
     float: none;
     position: center;
-    text-align: center;
+    text-align: left;
     padding: 0 5px 0 5px;
     margin: auto;
     justify-content: center;

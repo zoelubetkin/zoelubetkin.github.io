@@ -4,7 +4,7 @@ font-family: times new roman;
 font-size: 18px;
 }
 h1:hover {
-	color: yellow;
+	color: magenta;
 }
 h2 {
 	font-family: times new roman;
@@ -50,7 +50,7 @@ iframe {
 	padding-left: 30px;
 	padding-top: 10px;
 	padding-right: 30px;
-	border-color: black;
+	border-color: magenta;
 	border-style: solid;
 	border-width: thin;
 }
@@ -71,6 +71,9 @@ iframe {
     width: 27%;
     min-height: 200px;
     margin: auto;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
 }
 #main_column {
     float: none;
@@ -79,6 +82,10 @@ iframe {
     padding: 0 5px 0 5px;
     margin: auto;
     justify-content: center;
+    line-height: 2px;
+    border-color: magenta;
+    border-style: solid;
+    border-width: thin;
 }
 #footer {
 	background-color: white;

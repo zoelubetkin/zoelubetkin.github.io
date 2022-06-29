@@ -65,24 +65,23 @@ iframe {
     min-height: 850px;
     margin: 0 24px 27px 0;
     background: white;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
 }
 #moodboard_container {
     float: right;
     width: 27%;
     min-height: 200px;
     margin: auto;
-    border-color: black;
-    border-style: solid;
-    border-width: thin;
 }
 #main_column {
     float: none;
     position: center;
     text-align: left;
-    padding: 0 5px 0 5px;
+    padding: 5px 5px 5px 5px;
     margin: auto;
     justify-content: center;
-    line-height: 2px;
     border-color: magenta;
     border-style: solid;
     border-width: thin;

@@ -9,13 +9,12 @@ h1:hover {
 h2 {
 	font-family: times new roman;
 	font-size: 15px;
-	padding-top: 5px;
-	padding-bottom: 5px;
 	font-weight: normal;
 }
 h3 {
-	font-size: 12px;
+	font-size: 15px;
 	font-weight: normal;
+	padding-left: 10px;
 }
 a:hover {
 	color: magenta;

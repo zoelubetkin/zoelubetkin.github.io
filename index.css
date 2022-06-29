@@ -16,11 +16,8 @@ h3 {
 	font-size: 12px;
 	font-weight: normal;
 }
-.link:hover {
-	font-style: italic;
-}
 a:hover {
-	color: black;
+	color: magenta;
 	font-style: italic;
 }
 
@@ -46,7 +43,6 @@ iframe {
 }*/
 .link {
 	padding-left: 55px;
-	color: magenta;
 }
 #menu {
 	position: fixed;

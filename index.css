@@ -16,6 +16,9 @@ h3 {
 	font-size: 12px;
 	font-weight: normal;
 }
+.link:hover {
+	font-style: italic;
+}
 a:hover {
 	color: black;
 	font-style: italic;
@@ -43,6 +46,7 @@ iframe {
 }*/
 .link {
 	padding-left: 55px;
+	color: magenta;
 }
 #menu {
 	position: fixed;
@@ -65,9 +69,6 @@ iframe {
     min-height: 850px;
     margin: 0 24px 27px 0;
     background: white;
-    border-color: black;
-    border-style: solid;
-    border-width: thin;
 }
 #moodboard_container {
     float: right;

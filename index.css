@@ -83,6 +83,9 @@ iframe {
     border-style: solid;
     border-width: thin;
 }
+.container {
+	padding: 0 0 0 10px;
+}
 #footer {
 	background-color: white;
 	text-align: left;
@@ -118,9 +121,4 @@ img, #footer {
 	overflow-y: auto;
 	font-size: 15px;
 	text-indent: 10%;
-}
-.container {
-	padding-top: 30px;
-	padding-left: 300px;
-	display: inline-block;
 }

@@ -9,7 +9,7 @@ h1:hover {
 h2 {
 	font-family: times new roman;
 	font-size: 15px;
-	padding-top: 50px;
+	padding: 10px;
 	font-weight: normal;
 }
 h3 {
@@ -59,7 +59,7 @@ iframe {
    	position: fixed;
 	width: 800px;
 	padding: 10px;
-  	margin: 0 250px;
+  	margin: auto;
 }
 .moodboard {
     width: 80%;

@@ -59,7 +59,7 @@ iframe {
    	position: fixed;
 	width: 800px;
 	padding: 10px;
-  	margin: auto;
+  	margin: 0 250px;
 }
 .moodboard {
     width: 80%;

@@ -95,7 +95,7 @@ img, #footer {
 	padding-left: 250px;
 }
 * {
-	letter-spacing: -0.5px;
+	letter-spacing: 0px;
 }
 #essays, #contact, #cv-text {
 	padding-top: 30px;
@@ -120,4 +120,5 @@ img, #footer {
 	font-size: 15px;
 	text-indent: 10%;
 }
+
 

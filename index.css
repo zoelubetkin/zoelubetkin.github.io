@@ -42,7 +42,7 @@ iframe {
 	border-width: thin;
 }*/
 .link {
-	padding-left: 55px;
+	padding-left: 0px;
 	color: black;
 }
 #menu {
@@ -120,3 +120,4 @@ img, #footer {
 	font-size: 15px;
 	text-indent: 10%;
 }
+

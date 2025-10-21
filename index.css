@@ -92,7 +92,7 @@ iframe {
 	padding-bottom: 25px;
 }
 img, #footer {
-	padding-left: 250px;
+	padding-left: 0px;
 }
 * {
 	letter-spacing: 0px;
@@ -120,6 +120,7 @@ img, #footer {
 	font-size: 15px;
 	text-indent: 10%;
 }
+
 
 
 
